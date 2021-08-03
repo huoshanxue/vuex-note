@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # vuex-project
 
 ## Project setup
@@ -23,6 +22,3 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
-=======
-# vuex-note
->>>>>>> 9a45f58aebc191afc5d502ac46ccbab5a78afbfe
